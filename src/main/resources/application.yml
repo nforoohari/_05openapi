@@ -1,5 +1,5 @@
-#springdoc:
-#  api-docs:
-#    path: /api-doc
-#  swagger-ui:
-#    path: /ui
+springdoc:
+  api-docs:
+    path: /api-doc
+  swagger-ui:
+    path: /ui
